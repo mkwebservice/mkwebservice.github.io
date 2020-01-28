@@ -1,0 +1,26 @@
+
+body{
+	font-family: Georgia;
+	font-size: 30px;
+	background-image: url(background.jpg);background-size: cover;
+	text-align: center;
+}
+img{
+	height: 350px;
+	width: 350px;
+	transition: all 1s;
+}
+
+img:hover{
+	transform: scale(1.1);}
+
+form{
+	text-align: left;
+	align-content: left;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+footer{text-align: center; font-family: arial;}
+
+
